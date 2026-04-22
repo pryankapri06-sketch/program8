@@ -36,7 +36,7 @@
 				  <configuration>
 					  <archive>
 						  <manifest>
-							  <mainClass>com.mvn.program8.App</mainClass>
+							  <mainClass>com.maven.program8.App</mainClass>
 						  </manifest>
 					  </archive>
 				  </configuration>
